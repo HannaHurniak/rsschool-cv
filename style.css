@@ -1,0 +1,15 @@
+main {
+    width: 1024px;
+    margin: 30px;
+
+    font-family: sans-serif, Arial;
+}
+
+
+name {
+       font: bold 40px Arial, sans-serif;
+}
+
+info {
+    color: #581845;
+}
