@@ -24,4 +24,4 @@
 >Specialities: *Road traffic engineering (qualification - engineer-inspector)*
 
 ## **English level**
-> A2
+> A2 - Summer express cource
