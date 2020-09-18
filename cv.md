@@ -13,6 +13,8 @@
 ## **Technical Skills**
 > Knowledge of CSS, HTML and JS
 
+> Organization skills
+
 ## **Work Experience**
 > Client specialist in a private company (06/2015 - Present)
 
