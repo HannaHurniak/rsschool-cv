@@ -1,1 +1,1 @@
-https://github.com/HannaHurniak/rsschool-cv-html/
+https://HannaHurniak.github.io/rsschool-cv/
