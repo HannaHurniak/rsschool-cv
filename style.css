@@ -1,15 +1,55 @@
-main {
-    width: 1024px;
-    margin: 30px;
-
-    font-family: sans-serif, Arial;
+body {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 0;
+    background-image: url(background.jpg);
+    background-size: 100%;
+    font-family: 'Raleway', sans-serif;
+    color: #483a3c;
 }
 
+.name {
+    color: #b1d4d4;
 
-name {
-       font: bold 40px Arial, sans-serif;
+}
+.work {
+color: #483a3c;
 }
 
-info {
-    color: #581845;
+.goals {
+color: #483a3c;
+}
+
+.h1 {
+    margin: 0;
+    font-weight: 400;
+}
+
+.h2 {
+    margin: 0;
+    font-weight: 400;
+}
+
+.right {
+  float: right;
+  margin: 0 1.5%;
+  width: 60%;
+}
+.left {
+    float: left;
+  margin: 0 1.5%;
+  width: 30%;
+}
+
+.obj-head {
+    background-color: #d3d4d7;
+}
+.skills-head {
+    background-color: #d3d4d7;
+}
+.education-head {
+    background-color: #d3d4d7;
+}
+.english-head {
+    background-color: #d3d4d7;
 }
